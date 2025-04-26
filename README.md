@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/90068237/159043179-d97462f1-fcaa-4986-
 
 
 ## Для запуска игры:
-- скачать и распаковать архив `Game`
+- скачать и распаковать архив [`Game`](https://github.com/MeoW-2020/2d-game/releases)
 - запустить файл `In search of a Sapphire.exe`
 
 
